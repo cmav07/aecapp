@@ -1,4 +1,5 @@
-[package com.example.fortrial;
+```
+package com.example.fortrial;
 
 import android.os.Bundle;
 import android.view.View;
@@ -41,10 +42,11 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+```
 
 
 
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -109,4 +111,4 @@ public class MainActivity extends AppCompatActivity {
         android:layout_marginTop="32dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-]
+```
