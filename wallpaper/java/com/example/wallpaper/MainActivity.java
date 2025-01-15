@@ -66,5 +66,4 @@ public class MainActivity extends AppCompatActivity {
         }, 0);  // Immediately run the task
     }
 }
-chal gaya bhai
-wallpaper ka
+
